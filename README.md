@@ -28,7 +28,8 @@ SoftSell is a modern, responsive front-end website designed to help businesses *
 
 ## 📸 Screenshots
 
-> Add screenshots in a `/screenshots` folder and link them here (optional)
+![Screenshot 2025-05-10 100122](https://github.com/user-attachments/assets/c84ab688-15f8-4e46-a6de-d0b9d33738d4)
+
 
 ---
 
